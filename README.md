@@ -31,9 +31,14 @@ This phase shows each word with its lemma using WordNet.
 ### Synset phase
 This phase shows each word with its first synset using WordNet.
 ![](Images/synset.png)
-
+<br>
 
 ## Information retrieval
 ### Semantic search
 The last phase of our application is the semantic search in the database.
 ![](Images/sémantique.png)
+<br>
+### Contact
+Linkedin: <a href="https://www.linkedin.com/in/mohamed-aghezzaf/">aghezzafmohamed<a/> <br>
+Gmail: aghe.mohamed@gmail.com
+
